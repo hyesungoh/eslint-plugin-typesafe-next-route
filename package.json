@@ -8,9 +8,9 @@
     "eslint-plugin"
   ],
   "author": "hyesungoh",
-  "main": "./dist/index.js",
+  "main": "./src/index.js",
   "files": [
-    "dist/**"
+    "src/**"
   ],
   "scripts": {
     "lint": "eslint .",

@@ -53,7 +53,11 @@ then below code catch error
 ## This plugin is alpha yet
 
 ✅ default routing with `next/link`
+
 🧑‍💻 default routing with `next/router`
+
 🧑‍💻 query string routing
+
 🧑‍💻 dynamic routing
+
 🧑‍💻 check typescript env

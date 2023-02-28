@@ -1,6 +1,8 @@
 # eslint-plugin-typesafe-next-route
 
-Eslint plugin for type-safe routing within Next.js
+~~Eslint plugin for type-safe routing within Next.js~~
+
+This plugin is deprecated. [Next.js support statically typed links at 13.2 version.](https://nextjs.org/blog/next-13-2?utm_source=marketo&utm_medium=email&utm_campaign=monthly_newsletter&mkt_tok=MDAxLUxSRy0xOTQAAAGKHvKW9DKH5uqpsiQy0DwshjKQDzxQu0W44x_QscKJ1NcrnhYfZf1gKX7wFmoZRDRD-DiPbX0PPj5uTjOUNNjxapkF-8L1XcIkxHIdIb8#statically-typed-links)
 
 ## Installation
 
